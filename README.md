@@ -3,8 +3,12 @@ Webdevfinal
 Keeper 2.0 
 
 Functional database that stores notes - WIP
+
+
 Functional Registration - Yes
+
 Functional Login w/ Auth - Yes
+
 Better UI elements - Somewhat
 
 Backend - MongoDB w/ Node/Express
